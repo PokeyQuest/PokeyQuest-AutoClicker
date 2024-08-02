@@ -6,7 +6,8 @@
 
 ## [Download PokeyQuest AutoClicker](https://github.com/lewospsue/quiz-app/releases/tag/1)
 
-![fds](https://github.com/user-attachments/assets/64931331-5ca2-4774-a718-77db170cc0cf)
+![fds](https://github.com/user-attachments/assets/5b34057a-260e-4956-bc7e-8ae190a3a4b4)
+
 
 
 > [!NOTE]
