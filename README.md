@@ -10,21 +10,6 @@
 
 
 
-> [!NOTE]
-> Hi everyone today we present you our bot for crypto game PokeyQuest with which you can automate the whole process in the game which is possible
->
-> ---
-<div align="center">
-
-
-
-
-</div>
-
- 
-
- ---
- <div align="center">
 
    
 ### Features 🛠️
