@@ -30,12 +30,13 @@
 ### Features 🛠️
 </div>
 
-- Auto tuning
-- Auto clicker for many accounts
-- Multi-threading
-- Convenient menu
-- Free proxies
-
+| Feature                  | Status                 | Description                                           |
+|--------------------------|------------------------|-------------------------------------------------------|
+| Auto Tap                 | Default                | Automatically taps based on available energy          |
+| Auto Do Task             | On/Off                 | Automatically completes tasks                         |
+| Auto Claim Friend        | Default                | Claims points from friends                            |
+| Auto Get Reward          | Default                | Claims reward from collection                         |
+| Auto Upgrade             | On/Off                 | Upgrades to get more points per tap and increase energy limit                 |
 ---
 
 > [!TIP]
