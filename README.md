@@ -1,4 +1,4 @@
-<h1 align="center">Auto bot for PokeyQuest</h1>
+<h1 align="center">PokeyQuest Autoclicker  </h1>
 
 # [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
 
